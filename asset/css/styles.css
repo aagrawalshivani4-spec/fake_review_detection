@@ -1,0 +1,325 @@
+/* ----------------------------------------------------------
+   GLOBAL RESET – CLEAN LIGHT THEME
+----------------------------------------------------------- */
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background: #f3f4f6; /* gray-100 */
+    color: #1f2937;      /* gray-800 */
+    font-family: "Inter", sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
+/* Soft light scrollbars */
+::-webkit-scrollbar {
+    width: 8px;
+}
+::-webkit-scrollbar-track {
+    background: #e5e7eb;
+}
+::-webkit-scrollbar-thumb {
+    background: #9ca3af;
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #6b7280;
+}
+
+/* ----------------------------------------------------------
+   CARD STYLE (BEAUTIFUL + LIGHT)
+----------------------------------------------------------- */
+
+.card {
+    background: white;
+    border: 1px solid #e5e7eb;
+    border-radius: 18px;
+    padding: 22px;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.05);
+    transition: all 0.25s ease;
+}
+
+.card:hover {
+    box-shadow: 0 10px 26px rgba(0,0,0,0.08);
+    transform: translateY(-3px);
+}
+
+/* Titles inside cards */
+.card-title {
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #6b7280; /* gray-600 */
+    letter-spacing: 0.05em;
+}
+
+.card-value {
+    font-size: 2.3rem;
+    font-weight: 700;
+    color: #2563eb; /* blue-600 */
+}
+
+/* ----------------------------------------------------------
+   HEADER (TOP NAVBAR)
+----------------------------------------------------------- */
+
+header {
+    background: #ffffff;
+    border-bottom: 1px solid #e5e7eb;
+    padding: 16px 32px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.03);
+}
+
+/* FR logo badge */
+.badge {
+    background: #2563eb;
+    color: white;
+    padding: 6px 10px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 0.85rem;
+    box-shadow: 0 2px 5px rgba(37,99,235,0.3);
+}
+
+/* ----------------------------------------------------------
+   KPI ANIMATIONS
+----------------------------------------------------------- */
+
+.kpi-animate {
+    animation: popIn 0.55s ease;
+}
+
+@keyframes popIn {
+    0% { transform: scale(0.85); opacity: 0; }
+    100% { transform: scale(1); opacity: 1; }
+}
+
+/* ----------------------------------------------------------
+   TEXT AREA
+----------------------------------------------------------- */
+
+#review-input {
+    background: #ffffff;
+    border: 1px solid #d1d5db;
+    transition: border-color 0.25s ease, box-shadow 0.25s ease;
+    color: #1f2937;
+}
+
+#review-input:focus {
+    border-color: #10b981;
+    box-shadow: 0 0 0 3px rgba(16,185,129,0.25);
+}
+
+/* ----------------------------------------------------------
+   BUTTONS
+----------------------------------------------------------- */
+
+button {
+    transition: all 0.2s ease;
+}
+
+button:hover {
+    opacity: 0.9;
+}
+
+button:active {
+    transform: scale(0.97);
+}
+
+/* ----------------------------------------------------------
+   NETWORK GRAPH (LIGHT & CLEAN)
+----------------------------------------------------------- */
+
+#network-graph {
+    background: white;
+    border: 1px solid #e5e7eb;
+    border-radius: 18px;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.04);
+    overflow: hidden;
+    position: relative;
+}
+
+.node-label {
+    fill: #374151; /* gray-700 */
+    font-size: 10px;
+}
+
+/* Tooltip */
+.graph-tooltip {
+    position: absolute;
+    background: white;
+    color: #1f2937;
+    border: 1px solid #d1d5db;
+    padding: 6px 12px;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    font-size: 12px;
+    opacity: 0;
+    pointer-events: none;
+    transform: translate(-50%, -130%);
+    transition: opacity 0.2s ease;
+}
+
+/* ----------------------------------------------------------
+   CHARTS (WHITE GLASS STYLE)
+----------------------------------------------------------- */
+
+canvas {
+    background: white !important;
+    border-radius: 18px;
+}
+
+.chart-container {
+    background: white;
+    border: 1px solid #e5e7eb;
+    border-radius: 18px;
+    padding: 18px;
+    box-shadow: 0 4px 18px rgba(0,0,0,0.05);
+}
+
+.chart-update {
+    opacity: 0.3;
+}
+
+/* ----------------------------------------------------------
+   AUTOMATION LOG
+----------------------------------------------------------- */
+
+#automation-log {
+    background: white;
+    border: 1px solid #e5e7eb;
+    color: #1f2937;
+    padding: 12px;
+    border-radius: 12px;
+    white-space: pre-wrap;
+    font-family: "Fira Mono", monospace;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.04);
+}
+
+/* ----------------------------------------------------------
+   REPORT SECTION
+----------------------------------------------------------- */
+
+#report-content p {
+    margin-bottom: 3px;
+    color: #374151;
+}
+
+#download-report:hover {
+    box-shadow: 0px 0px 12px rgba(0,0,0,0.08);
+}
+
+/* ----------------------------------------------------------
+   MOBILE OPTIMIZATION
+----------------------------------------------------------- */
+
+@media (max-width: 640px) {
+
+    .card {
+        padding: 16px;
+    }
+
+    header h1 {
+        font-size: 1rem;
+    }
+
+    #network-graph {
+        height: 280px !important;
+    }
+}
+/* ----------------------------------------------------------
+   FINAL LIGHT THEME ENHANCEMENTS (MATCHES NEW HTML)
+----------------------------------------------------------- */
+
+/* Ensure all cards stay white even if Tailwind updates */
+.card, .chart-container {
+    background: #ffffff !important;
+    border: 1px solid #e5e7eb !important;
+    border-radius: 18px !important;
+}
+
+/* Header alignment fix */
+header {
+    background: #ffffff !important;
+    border-bottom: 1px solid #e5e7eb !important;
+}
+
+/* Lighter shadows for premium look */
+.card, .chart-container, #network-graph, #automation-log {
+    box-shadow: 0 6px 16px rgba(0,0,0,0.06) !important;
+}
+
+/* Buttons (light premium look) */
+button {
+    border-radius: 12px !important;
+    transition: all 0.18s ease !important;
+}
+
+button:hover {
+    opacity: 0.95 !important;
+    transform: translateY(-1px) !important;
+}
+
+/* Prediction badge beautified */
+#prediction-badge {
+    background: #f1f5f9 !important;     /* very light gray */
+    border-color: #cbd5e1 !important;
+    color: #1e293b !important;
+    border-radius: 12px !important;
+}
+
+/* Textarea smoothing */
+#review-input {
+    background: white !important;
+    color: #0f172a !important;
+    border-radius: 12px !important;
+    border: 1px solid #d1d5db !important;
+}
+
+#review-input:focus {
+    outline: none !important;
+    border-color: #2563eb !important;
+    box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.18) !important;
+}
+
+/* Automation log */
+#automation-log {
+    background: #ffffff !important;
+    border-radius: 12px !important;
+    border: 1px solid #e2e8f0 !important;
+    font-size: 0.85rem !important;
+    color: #1f2937 !important;
+}
+
+/* Graph tooltip */
+.graph-tooltip {
+    background: white !important;
+    color: #1f2937 !important;
+    border: 1px solid #e2e8f0 !important;
+}
+
+/* Network graph background */
+#network-graph {
+    background: #ffffff !important;
+    border-radius: 18px !important;
+}
+
+/* KPI number color */
+.card-value {
+    color: #2563eb !important;
+}
+
+/* Smooth section fade */
+section {
+    animation: fadeIn 0.6s ease;
+}
+
+

@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Fake Review Detection Dashboard</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <!-- D3.js -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="asset/css/styles.css" />
+</head>
+
+<body class="bg-gray-100 text-gray-900 antialiased">
+
+    <!-- HEADER -->
+    <header class="w-full bg-white shadow-sm border-b border-gray-200">
+        <div class="max-w-6xl mx-auto px-4 py-4 flex items-center justify-between">
+            <div class="flex items-center gap-2">
+                <div class="h-8 w-8 rounded-xl bg-blue-600 text-white flex items-center justify-center font-bold text-lg">
+                    FR
+                </div>
+                <div>
+                    <h1 class="text-lg font-semibold tracking-tight">
+                        Fake Review Detection – Analytics Dashboard
+                    </h1>
+                    <p class="text-xs text-gray-500">
+                        Precision · Recall · False Alarm · Network Graph · Predictions
+                    </p>
+                </div>
+            </div>
+
+            <div class="flex items-center gap-3 text-xs">
+                <span class="px-3 py-1 rounded-full bg-blue-50 text-blue-600 border border-blue-200">
+                    Gradient Boosting Model
+                </span>
+                <span class="text-gray-500">
+                    Updated: Real-time
+                </span>
+            </div>
+        </div>
+    </header>
+
+    <!-- MAIN CONTENT -->
+    <main class="max-w-6xl mx-auto px-4 py-6 space-y-6">
+
+        <!-- KPI SECTION -->
+        <section>
+            <h2 class="text-base font-semibold mb-3">Model Performance Snapshot</h2>
+            <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
+
+                <div class="card">
+                    <p class="card-title">Precision (Fake Class)</p>
+                    <p id="precision-value" class="card-value mt-2">--%</p>
+                    <p class="text-xs text-gray-500 mt-1">
+                        Of reviews predicted as fake, how many are actually fake.
+                    </p>
+                </div>
+
+                <div class="card">
+                    <p class="card-title">Recall (Fake Class)</p>
+                    <p id="recall-value" class="card-value mt-2">--%</p>
+                    <p class="text-xs text-gray-500 mt-1">
+                        Of all fake reviews present, how many were detected.
+                    </p>
+                </div>
+
+                <div class="card">
+                    <p class="card-title">False Alarm Rate</p>
+                    <p id="false-alarm-value" class="card-value mt-2">--%</p>
+                    <p class="text-xs text-gray-500 mt-1">
+                        Genuine reviews incorrectly classified as fake.
+                    </p>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- CHARTS -->
+        <section class="grid grid-cols-1 lg:grid-cols-3 gap-4">
+
+            <!-- Metrics Chart -->
+            <div class="lg:col-span-2 chart-container">
+                <div class="flex items-center justify-between mb-2">
+                    <h2 class="font-semibold">Performance Metrics Comparison</h2>
+                    <span class="text-xs text-gray-500">Animated – Precision · Recall · F1 · False Alarm</span>
+                </div>
+                <canvas id="metrics-bar-chart" class="w-full h-64"></canvas>
+            </div>
+
+            <!-- Class Summary Chart -->
+            <div class="chart-container">
+                <h2 class="font-semibold mb-2">Prediction Summary</h2>
+                <canvas id="class-bar-chart" class="w-full h-64 mb-3"></canvas>
+
+                <ul class="text-xs text-gray-600 space-y-1">
+                    <li><strong>TP</strong>: True Fake predicted fake</li>
+                    <li><strong>FP</strong>: Genuine predicted fake</li>
+                    <li><strong>TN</strong>: Genuine predicted genuine</li>
+                    <li><strong>FN</strong>: Fake missed</li>
+                </ul>
+            </div>
+            <!-- MODEL COMPARISON -->
+<div class="chart-container lg:col-span-3">
+    <h2 class="font-semibold mb-2">Model Comparison</h2>
+    <canvas id="model-comparison-chart" class="w-full h-64"></canvas>
+</div>
+
+
+        </section>
+
+        <!-- PREDICTION PANEL -->
+        <section class="grid grid-cols-1 lg:grid-cols-2 gap-4">
+            <div class="card">
+                <h2 class="font-semibold">Example: Review Prediction</h2>
+
+                <label class="text-xs text-gray-600">Enter a review text:</label>
+                <textarea id="review-input" rows="4"
+                    class="w-full rounded-xl border border-gray-300 bg-white px-3 py-2 text-sm"
+                    placeholder="Example: 'Amazing product, must buy!'"></textarea>
+
+                <div class="flex items-center gap-3 mt-3">
+                    <button id="predict-button"
+                        class="px-4 py-2 rounded-xl bg-green-600 text-white text-sm font-semibold hover:bg-green-500">
+                        Predict Review
+                    </button>
+
+                    <span id="prediction-badge"
+                        class="px-3 py-1 rounded-full text-xs border border-gray-300 bg-gray-100">
+                        Prediction: --
+                    </span>
+                </div>
+
+                <div class="bg-gray-50 border border-gray-200 rounded-xl p-3 text-xs mt-3">
+                    <p id="prediction-prob" class="text-gray-700">Probability (Fake): --</p>
+                    <p id="prediction-explanation" class="text-gray-500">Explanation will appear here.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- NETWORK GRAPH -->
+        <section class="grid grid-cols-1 lg:grid-cols-3 gap-4">
+            <div class="lg:col-span-2 chart-container">
+                <div class="flex items-center justify-between mb-2">
+                    <h2 class="font-semibold">Reviewer–Product Network</h2>
+                    <span class="text-xs text-gray-500">Force-directed Visualization</span>
+                </div>
+
+                <div id="network-graph" class="w-full h-80 bg-white rounded-xl border border-gray-200"></div>
+            </div>
+
+            <div class="card">
+                <h2 class="font-semibold">Graph Legend & Node Details</h2>
+                <ul class="text-xs text-gray-700 space-y-1">
+                    <li><span class="text-blue-600 font-bold">●</span> Product Node</li>
+                    <li><span class="text-green-600 font-bold">●</span> Reviewer Node</li>
+                    <li><strong>Size</strong>: Degree Centrality</li>
+                    <li><strong>Color</strong>: Suspicion Score</li>
+                </ul>
+
+                <div class="bg-gray-50 border border-gray-200 rounded-xl p-3 text-xs mt-3">
+                    <p class="text-gray-500">Selected Node:</p>
+                    <p id="selected-node-id" class="font-mono text-gray-700">None</p>
+                    <p id="selected-node-info" class="text-gray-500 mt-1">
+                        Hover a node in the graph to see details.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <!-- REPORT SECTION -->
+        <section class="card">
+            <div class="flex items-center justify-between">
+                <h2 class="font-semibold">Detection Report</h2>
+                <button id="download-report"
+                    class="px-4 py-2 rounded-xl bg-blue-100 text-blue-700 text-xs font-semibold hover:bg-blue-200">
+                    Download Report
+                </button>
+            </div>
+
+            <p class="text-xs text-gray-500">Summary of performance and network analysis.</p>
+
+            <div id="report-content" class="text-sm space-y-1 mt-2">
+                <p>- Precision: --%</p>
+                <p>- Recall: --%</p>
+                <p>- False Alarm Rate: --%</p>
+                <p>- Top suspicious reviewers: --</p>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- JS -->
+    <script src="asset/js/charts.js"></script>
+    <script src="asset/js/network.js"></script>
+    <script src="asset/js/app.js?v=3"></script>
+
+</body>
+</html>
+
+

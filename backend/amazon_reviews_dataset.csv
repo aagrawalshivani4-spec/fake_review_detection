@@ -1,0 +1,501 @@
+reviewer_id,asin,reviewer_name,overall,reviewer_rating,review_title,review_text,total_votes,helpful_votes,verified_purchase,review_date,unixReviewTime,is_fake
+A0000102,B08J5W8Z3K,John Smith,5,2,Good product for price,"Not bad, meets basic expectations",2,1,False,2024-06-01 00:00:00,1721731309,0
+A0000435,B07H48467S,John Smith,4,5,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Not bad, meets basic expectations",3,0,True,2024-06-01 01:00:00,1719999580,0
+A0000860,B07H48467S,David Wilson,4,4,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,6,1,True,2024-06-01 02:00:00,1720561032,0
+A0000270,B08J5W8Z3K,Emily Brown,5,4,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,3,0,True,2024-06-01 03:00:00,1721464992,0
+A0000106,B07H48467S,John Smith,1,2,AMAZING QUALITY BEST EVER 5 STARS!,"Not bad, meets basic expectations",3,2,True,2024-06-01 04:00:00,1720339952,0
+A0000071,B07H48467S,Emily Brown,3,1,AMAZING QUALITY BEST EVER 5 STARS!,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,2,1,True,2024-06-01 05:00:00,1721615948,0
+A0000700,B07H48467S,Sarah Johnson,4,4,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Not bad, meets basic expectations",1,1,True,2024-06-01 06:00:00,1719956244,0
+A0000020,B08N5WRWNW,Mike Davis,5,4,AMAZING QUALITY BEST EVER 5 STARS!,"Not bad, meets basic expectations",0,1,False,2024-06-01 07:00:00,1720268857,1
+A0000614,B08N5WRWNW,John Smith,2,4,Decent purchase,"Good product for the price, works as expected",2,0,True,2024-06-01 08:00:00,1720904916,0
+A0000121,B08N5WRWNW,David Wilson,1,5,Decent purchase,"Good product for the price, works as expected",6,0,True,2024-06-01 09:00:00,1721452100,0
+A0000466,B08J5W8Z3K,Sarah Johnson,2,4,AMAZING QUALITY BEST EVER 5 STARS!,"Good product for the price, works as expected",6,2,True,2024-06-01 10:00:00,1719803017,0
+A0000214,B07PZF4N4G,Emily Brown,2,3,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,3,0,True,2024-06-01 11:00:00,1721663621,0
+A0000330,B07H48467S,Sarah Johnson,1,4,AMAZING QUALITY BEST EVER 5 STARS!,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,3,0,True,2024-06-01 12:00:00,1722443788,0
+A0000458,B07H48467S,John Smith,4,5,AMAZING QUALITY BEST EVER 5 STARS!,"Not bad, meets basic expectations",2,2,True,2024-06-01 13:00:00,1722160787,0
+A0000087,B08J5W8Z3K,Emily Brown,4,5,AMAZING QUALITY BEST EVER 5 STARS!,"Good product for the price, works as expected",5,1,True,2024-06-01 14:00:00,1720001720,0
+A0000372,B07H48467S,Mike Davis,3,4,Good product for price,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,3,2,True,2024-06-01 15:00:00,1722010222,0
+A0000099,B08N5WRWNW,Sarah Johnson,4,3,Decent purchase,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,2,0,True,2024-06-01 16:00:00,1721592493,0
+A0000871,B07PZF4N4G,John Smith,2,3,Average quality works okay,"Not bad, meets basic expectations",2,1,True,2024-06-01 17:00:00,1722151664,0
+A0000663,B09B2MFP3R,David Wilson,3,5,Average quality works okay,Average quality but acceptable for budget,2,0,True,2024-06-01 18:00:00,1721924162,0
+A0000130,B07H48467S,Emily Brown,4,5,Good product for price,"Not bad, meets basic expectations",3,5,False,2024-06-01 19:00:00,1721487625,0
+A0000661,B08N5WRWNW,Sarah Johnson,5,5,AMAZING QUALITY BEST EVER 5 STARS!,Average quality but acceptable for budget,1,0,True,2024-06-01 20:00:00,1720570928,1
+A0000308,B09B2MFP3R,Sarah Johnson,1,5,Good product for price,"Good product for the price, works as expected",6,0,True,2024-06-01 21:00:00,1721754160,0
+A0000769,B07PZF4N4G,Mike Davis,4,5,Good product for price,Average quality but acceptable for budget,4,1,True,2024-06-01 22:00:00,1721526872,0
+A0000343,B09B2MFP3R,Mike Davis,3,2,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Good product for the price, works as expected",6,0,True,2024-06-01 23:00:00,1721443722,0
+A0000491,B08N5WRWNW,David Wilson,5,4,Decent purchase,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,2,2,True,2024-06-02 00:00:00,1719829493,0
+A0000413,B09B2MFP3R,David Wilson,5,3,Average quality works okay,Average quality but acceptable for budget,5,0,False,2024-06-02 01:00:00,1722423732,0
+A0000805,B08J5W8Z3K,John Smith,4,3,AMAZING QUALITY BEST EVER 5 STARS!,"Not bad, meets basic expectations",2,0,True,2024-06-02 02:00:00,1722412390,0
+A0000385,B09B2MFP3R,John Smith,3,5,Average quality works okay,"Good product for the price, works as expected",3,0,True,2024-06-02 03:00:00,1720942311,0
+A0000191,B07H48467S,David Wilson,5,4,Average quality works okay,"Not bad, meets basic expectations",6,0,True,2024-06-02 04:00:00,1721387776,0
+A0000955,B07H48467S,David Wilson,1,4,Decent purchase,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,6,2,True,2024-06-02 05:00:00,1721860535,0
+A0000276,B08J5W8Z3K,Emily Brown,2,3,Average quality works okay,"Good product for the price, works as expected",5,0,True,2024-06-02 06:00:00,1720423581,0
+A0000160,B08N5WRWNW,Mike Davis,4,3,Average quality works okay,Average quality but acceptable for budget,4,1,True,2024-06-02 07:00:00,1721478519,0
+A0000459,B07H48467S,John Smith,2,3,Good product for price,"Good product for the price, works as expected",3,2,True,2024-06-02 08:00:00,1720413747,0
+A0000313,B07PZF4N4G,Mike Davis,5,3,Decent purchase,"Not bad, meets basic expectations",1,0,False,2024-06-02 09:00:00,1722287902,0
+A0000021,B07H48467S,Mike Davis,5,4,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,4,1,True,2024-06-02 10:00:00,1721073258,0
+A0000252,B07H48467S,David Wilson,3,3,AMAZING QUALITY BEST EVER 5 STARS!,"Good product for the price, works as expected",3,1,True,2024-06-02 11:00:00,1720220886,0
+A0000747,B08N5WRWNW,Emily Brown,4,4,Average quality works okay,Average quality but acceptable for budget,4,1,True,2024-06-02 12:00:00,1720021171,0
+A0000856,B09B2MFP3R,Sarah Johnson,5,2,AMAZING QUALITY BEST EVER 5 STARS!,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,2,0,True,2024-06-02 13:00:00,1719959558,0
+A0000560,B07H48467S,Emily Brown,5,2,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,2,1,True,2024-06-02 14:00:00,1720775061,0
+A0000474,B08J5W8Z3K,Emily Brown,4,3,AMAZING QUALITY BEST EVER 5 STARS!,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,4,1,True,2024-06-02 15:00:00,1720088412,0
+A0000058,B09B2MFP3R,Mike Davis,5,4,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Good product for the price, works as expected",4,0,False,2024-06-02 16:00:00,1721996490,0
+A0000510,B07PZF4N4G,Emily Brown,5,5,Good product for price,"Not bad, meets basic expectations",1,0,False,2024-06-02 17:00:00,1722363703,0
+A0000681,B08N5WRWNW,John Smith,5,4,Average quality works okay,"Not bad, meets basic expectations",2,0,False,2024-06-02 18:00:00,1722177632,0
+A0000475,B07PZF4N4G,Mike Davis,2,4,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,Average quality but acceptable for budget,4,1,True,2024-06-02 19:00:00,1721135679,0
+A0000699,B09B2MFP3R,John Smith,4,5,AMAZING QUALITY BEST EVER 5 STARS!,"Not bad, meets basic expectations",2,1,True,2024-06-02 20:00:00,1722033530,0
+A0000975,B09B2MFP3R,Sarah Johnson,5,1,Average quality works okay,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,3,0,True,2024-06-02 21:00:00,1722066406,0
+A0000782,B09B2MFP3R,Mike Davis,3,3,Good product for price,"Not bad, meets basic expectations",5,1,True,2024-06-02 22:00:00,1721290118,0
+A0000189,B07PZF4N4G,Sarah Johnson,5,5,Average quality works okay,Average quality but acceptable for budget,2,1,True,2024-06-02 23:00:00,1721592831,0
+A0000957,B09B2MFP3R,Mike Davis,2,4,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Good product for the price, works as expected",2,2,True,2024-06-03 00:00:00,1721386362,0
+A0000686,B07PZF4N4G,David Wilson,1,3,Good product for price,"Good product for the price, works as expected",2,1,True,2024-06-03 01:00:00,1721860710,0
+A0000957,B09B2MFP3R,Emily Brown,4,5,AMAZING QUALITY BEST EVER 5 STARS!,"Not bad, meets basic expectations",2,0,True,2024-06-03 02:00:00,1721916349,0
+A0000562,B08J5W8Z3K,David Wilson,1,5,Good product for price,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,4,0,True,2024-06-03 03:00:00,1720799705,0
+A0000875,B09B2MFP3R,Sarah Johnson,5,3,Good product for price,"Good product for the price, works as expected",2,1,True,2024-06-03 04:00:00,1721997927,0
+A0000566,B07PZF4N4G,Emily Brown,5,4,Decent purchase,"Not bad, meets basic expectations",2,1,True,2024-06-03 05:00:00,1720638056,0
+A0000243,B07H48467S,Mike Davis,5,4,Good product for price,Average quality but acceptable for budget,3,0,True,2024-06-03 06:00:00,1720108790,0
+A0000831,B09B2MFP3R,Emily Brown,4,4,Good product for price,"Not bad, meets basic expectations",2,4,True,2024-06-03 07:00:00,1721708195,0
+A0000504,B07H48467S,John Smith,3,4,Average quality works okay,"Good product for the price, works as expected",2,0,True,2024-06-03 08:00:00,1719837712,0
+A0000130,B08J5W8Z3K,Emily Brown,4,3,AMAZING QUALITY BEST EVER 5 STARS!,Average quality but acceptable for budget,2,1,True,2024-06-03 09:00:00,1722288641,0
+A0000484,B08N5WRWNW,John Smith,4,4,Average quality works okay,"Not bad, meets basic expectations",5,2,True,2024-06-03 10:00:00,1720125964,0
+A0000818,B08J5W8Z3K,Emily Brown,4,4,Average quality works okay,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,4,0,True,2024-06-03 11:00:00,1722014494,0
+A0000646,B09B2MFP3R,John Smith,3,5,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,Average quality but acceptable for budget,4,2,True,2024-06-03 12:00:00,1721456092,0
+A0000020,B07H48467S,Sarah Johnson,4,5,Average quality works okay,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,4,0,True,2024-06-03 13:00:00,1720128497,0
+A0000840,B07H48467S,David Wilson,4,2,Decent purchase,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,4,3,True,2024-06-03 14:00:00,1720279707,0
+A0000166,B07PZF4N4G,Mike Davis,5,4,Decent purchase,Average quality but acceptable for budget,4,0,True,2024-06-03 15:00:00,1719884091,0
+A0000273,B07H48467S,Emily Brown,5,3,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,0,2,True,2024-06-03 16:00:00,1721188634,1
+A0000387,B07PZF4N4G,David Wilson,4,4,AMAZING QUALITY BEST EVER 5 STARS!,"Good product for the price, works as expected",1,3,False,2024-06-03 17:00:00,1721022478,0
+A0000600,B08N5WRWNW,Mike Davis,4,5,AMAZING QUALITY BEST EVER 5 STARS!,"Good product for the price, works as expected",4,2,True,2024-06-03 18:00:00,1720685150,0
+A0000315,B09B2MFP3R,Mike Davis,5,3,Average quality works okay,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,1,0,True,2024-06-03 19:00:00,1722299495,0
+A0000013,B07PZF4N4G,John Smith,1,4,Average quality works okay,Average quality but acceptable for budget,4,1,True,2024-06-03 20:00:00,1722103712,0
+A0000241,B08N5WRWNW,Sarah Johnson,5,3,Average quality works okay,Average quality but acceptable for budget,1,1,True,2024-06-03 21:00:00,1720327827,0
+A0000776,B07H48467S,Sarah Johnson,5,2,AMAZING QUALITY BEST EVER 5 STARS!,Average quality but acceptable for budget,2,0,True,2024-06-03 22:00:00,1720724196,0
+A0000345,B07H48467S,David Wilson,4,4,Good product for price,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,2,1,True,2024-06-03 23:00:00,1721841736,0
+A0000564,B08N5WRWNW,Sarah Johnson,4,4,Decent purchase,Average quality but acceptable for budget,1,2,False,2024-06-04 00:00:00,1721116054,0
+A0000897,B07H48467S,Emily Brown,3,5,Good product for price,"Good product for the price, works as expected",4,0,True,2024-06-04 01:00:00,1720213743,0
+A0000339,B08N5WRWNW,Sarah Johnson,4,4,Good product for price,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,7,1,True,2024-06-04 02:00:00,1721355482,0
+A0000091,B07PZF4N4G,David Wilson,1,3,AMAZING QUALITY BEST EVER 5 STARS!,"Good product for the price, works as expected",3,0,True,2024-06-04 03:00:00,1721422872,0
+A0000366,B07PZF4N4G,Sarah Johnson,5,4,Good product for price,"Good product for the price, works as expected",4,3,False,2024-06-04 04:00:00,1721317068,0
+A0000955,B08N5WRWNW,Emily Brown,1,2,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,5,2,True,2024-06-04 05:00:00,1721202038,0
+A0000454,B07PZF4N4G,John Smith,3,5,Average quality works okay,"Good product for the price, works as expected",3,1,True,2024-06-04 06:00:00,1720211924,0
+A0000427,B07PZF4N4G,David Wilson,5,4,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,2,1,True,2024-06-04 07:00:00,1721506796,0
+A0000508,B07PZF4N4G,John Smith,5,5,Decent purchase,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,3,0,True,2024-06-04 08:00:00,1721775518,0
+A0000775,B08J5W8Z3K,John Smith,3,3,Average quality works okay,"Good product for the price, works as expected",2,0,True,2024-06-04 09:00:00,1721956452,0
+A0000942,B09B2MFP3R,John Smith,3,4,Good product for price,"Not bad, meets basic expectations",2,0,True,2024-06-04 10:00:00,1720183407,0
+A0000034,B07H48467S,Mike Davis,1,4,Decent purchase,"Good product for the price, works as expected",4,1,True,2024-06-04 11:00:00,1720599274,0
+A0000205,B08J5W8Z3K,Mike Davis,5,5,Average quality works okay,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,1,2,True,2024-06-04 12:00:00,1721927896,0
+A0000080,B07PZF4N4G,John Smith,1,1,Good product for price,Average quality but acceptable for budget,5,0,False,2024-06-04 13:00:00,1720170226,0
+A0000931,B08N5WRWNW,David Wilson,4,3,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Good product for the price, works as expected",2,2,True,2024-06-04 14:00:00,1722208738,0
+A0000561,B07PZF4N4G,Emily Brown,5,5,Average quality works okay,Average quality but acceptable for budget,3,3,False,2024-06-04 15:00:00,1721756078,0
+A0000871,B09B2MFP3R,Emily Brown,2,4,Good product for price,"Not bad, meets basic expectations",6,1,True,2024-06-04 16:00:00,1721748678,0
+A0000387,B07PZF4N4G,Sarah Johnson,5,4,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Good product for the price, works as expected",3,1,True,2024-06-04 17:00:00,1722258213,0
+A0000001,B08N5WRWNW,David Wilson,5,2,Decent purchase,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,3,0,True,2024-06-04 18:00:00,1722124127,0
+A0000389,B09B2MFP3R,Mike Davis,2,5,Decent purchase,Average quality but acceptable for budget,7,2,True,2024-06-04 19:00:00,1722417090,0
+A0000565,B07PZF4N4G,John Smith,5,1,Decent purchase,"Not bad, meets basic expectations",3,2,True,2024-06-04 20:00:00,1722458557,0
+A0000105,B09B2MFP3R,Sarah Johnson,4,5,Decent purchase,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,1,1,True,2024-06-04 21:00:00,1721718252,0
+A0000771,B07H48467S,Emily Brown,5,5,AMAZING QUALITY BEST EVER 5 STARS!,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,0,2,True,2024-06-04 22:00:00,1721866278,1
+A0000821,B07H48467S,Mike Davis,4,3,Average quality works okay,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,3,1,True,2024-06-04 23:00:00,1721810852,0
+A0000476,B07PZF4N4G,Mike Davis,5,5,Average quality works okay,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,1,2,True,2024-06-05 00:00:00,1720581622,0
+A0000702,B09B2MFP3R,John Smith,4,2,AMAZING QUALITY BEST EVER 5 STARS!,"Good product for the price, works as expected",2,0,True,2024-06-05 01:00:00,1721937265,0
+A0000401,B08N5WRWNW,Emily Brown,5,3,Good product for price,"Good product for the price, works as expected",1,0,True,2024-06-05 02:00:00,1719931861,0
+A0000729,B07PZF4N4G,David Wilson,5,5,Good product for price,"Good product for the price, works as expected",3,0,True,2024-06-05 03:00:00,1720872701,0
+A0000555,B07H48467S,Mike Davis,4,5,Decent purchase,"Not bad, meets basic expectations",1,0,False,2024-06-05 04:00:00,1721070343,0
+A0000161,B07H48467S,John Smith,5,4,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Not bad, meets basic expectations",2,2,True,2024-06-05 05:00:00,1722281296,0
+A0000201,B07PZF4N4G,David Wilson,3,4,Good product for price,"Not bad, meets basic expectations",4,2,True,2024-06-05 06:00:00,1720482778,0
+A0000957,B09B2MFP3R,Emily Brown,3,3,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,3,2,True,2024-06-05 07:00:00,1719970157,0
+A0000995,B07H48467S,Mike Davis,3,2,Average quality works okay,"Not bad, meets basic expectations",4,0,True,2024-06-05 08:00:00,1721545897,0
+A0000269,B09B2MFP3R,David Wilson,3,2,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Good product for the price, works as expected",2,1,False,2024-06-05 09:00:00,1722232395,0
+A0000862,B07H48467S,David Wilson,3,3,Average quality works okay,"Good product for the price, works as expected",2,0,True,2024-06-05 10:00:00,1722142959,0
+A0000815,B07H48467S,David Wilson,5,3,AMAZING QUALITY BEST EVER 5 STARS!,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,3,1,True,2024-06-05 11:00:00,1720403709,0
+A0000270,B08J5W8Z3K,Mike Davis,2,4,AMAZING QUALITY BEST EVER 5 STARS!,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,1,1,True,2024-06-05 12:00:00,1721557018,0
+A0000455,B07H48467S,Mike Davis,5,3,Decent purchase,"Not bad, meets basic expectations",2,1,True,2024-06-05 13:00:00,1721633903,0
+A0000461,B08N5WRWNW,Sarah Johnson,3,3,Good product for price,Average quality but acceptable for budget,4,4,False,2024-06-05 14:00:00,1721021959,0
+A0000726,B07PZF4N4G,Emily Brown,5,4,Decent purchase,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,6,0,True,2024-06-05 15:00:00,1720536854,0
+A0000251,B07PZF4N4G,John Smith,5,5,Average quality works okay,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,4,2,True,2024-06-05 16:00:00,1721960169,0
+A0000701,B09B2MFP3R,David Wilson,4,3,Decent purchase,"Good product for the price, works as expected",1,1,True,2024-06-05 17:00:00,1722434800,0
+A0000295,B07H48467S,Sarah Johnson,5,5,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,4,0,True,2024-06-05 18:00:00,1722391546,0
+A0000724,B08N5WRWNW,John Smith,1,5,Average quality works okay,"Good product for the price, works as expected",4,1,True,2024-06-05 19:00:00,1721455229,0
+A0000719,B09B2MFP3R,Sarah Johnson,5,3,AMAZING QUALITY BEST EVER 5 STARS!,"Good product for the price, works as expected",1,1,True,2024-06-05 20:00:00,1721450332,1
+A0000748,B08J5W8Z3K,Mike Davis,3,5,Good product for price,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,5,0,True,2024-06-05 21:00:00,1720049137,0
+A0000337,B09B2MFP3R,David Wilson,5,4,Average quality works okay,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,2,1,False,2024-06-05 22:00:00,1721141651,0
+A0000878,B09B2MFP3R,John Smith,1,4,Average quality works okay,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,1,1,True,2024-06-05 23:00:00,1720896399,0
+A0000052,B07H48467S,John Smith,4,4,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Good product for the price, works as expected",4,1,True,2024-06-06 00:00:00,1720616464,0
+A0000791,B08J5W8Z3K,John Smith,5,4,Good product for price,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,3,3,True,2024-06-06 01:00:00,1720563279,0
+A0000921,B09B2MFP3R,John Smith,3,4,AMAZING QUALITY BEST EVER 5 STARS!,Average quality but acceptable for budget,3,1,False,2024-06-06 02:00:00,1720859383,0
+A0000216,B08N5WRWNW,John Smith,3,4,Average quality works okay,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,6,1,True,2024-06-06 03:00:00,1720455431,0
+A0000763,B08N5WRWNW,Sarah Johnson,2,4,Average quality works okay,"Not bad, meets basic expectations",4,1,True,2024-06-06 04:00:00,1720369701,0
+A0000187,B07PZF4N4G,David Wilson,3,5,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,9,2,True,2024-06-06 05:00:00,1721380404,0
+A0000379,B08J5W8Z3K,Mike Davis,4,4,Decent purchase,"Not bad, meets basic expectations",3,0,True,2024-06-06 06:00:00,1721597148,0
+A0000492,B08J5W8Z3K,Mike Davis,2,5,AMAZING QUALITY BEST EVER 5 STARS!,"Not bad, meets basic expectations",2,2,True,2024-06-06 07:00:00,1720910824,0
+A0000040,B07PZF4N4G,Mike Davis,4,2,Good product for price,"Not bad, meets basic expectations",3,0,True,2024-06-06 08:00:00,1720044515,0
+A0000156,B09B2MFP3R,Mike Davis,1,3,Average quality works okay,Average quality but acceptable for budget,2,1,True,2024-06-06 09:00:00,1720951070,0
+A0000014,B08J5W8Z3K,Sarah Johnson,5,5,Average quality works okay,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,5,0,True,2024-06-06 10:00:00,1720401723,0
+A0000812,B08N5WRWNW,Emily Brown,2,3,AMAZING QUALITY BEST EVER 5 STARS!,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,4,0,True,2024-06-06 11:00:00,1720336075,0
+A0000064,B08N5WRWNW,David Wilson,3,1,Decent purchase,Average quality but acceptable for budget,3,1,False,2024-06-06 12:00:00,1720075126,0
+A0000856,B07H48467S,John Smith,1,3,Average quality works okay,"Good product for the price, works as expected",5,0,False,2024-06-06 13:00:00,1722139920,0
+A0000838,B08J5W8Z3K,Emily Brown,4,3,AMAZING QUALITY BEST EVER 5 STARS!,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,3,2,True,2024-06-06 14:00:00,1722436046,0
+A0000520,B09B2MFP3R,Mike Davis,5,5,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,1,1,True,2024-06-06 15:00:00,1721768230,1
+A0000343,B07PZF4N4G,Emily Brown,4,4,Decent purchase,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,3,0,True,2024-06-06 16:00:00,1720564783,0
+A0000128,B07PZF4N4G,David Wilson,3,5,Good product for price,Average quality but acceptable for budget,7,0,True,2024-06-06 17:00:00,1722001375,0
+A0000647,B09B2MFP3R,John Smith,5,4,Average quality works okay,"Good product for the price, works as expected",3,1,True,2024-06-06 18:00:00,1721411800,0
+A0000471,B07H48467S,John Smith,5,4,AMAZING QUALITY BEST EVER 5 STARS!,"Good product for the price, works as expected",2,0,True,2024-06-06 19:00:00,1720718097,0
+A0000062,B07PZF4N4G,David Wilson,3,3,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Good product for the price, works as expected",5,2,True,2024-06-06 20:00:00,1721775438,0
+A0000138,B08J5W8Z3K,David Wilson,5,4,Good product for price,Average quality but acceptable for budget,2,1,True,2024-06-06 21:00:00,1720791647,0
+A0000498,B07H48467S,Mike Davis,5,2,AMAZING QUALITY BEST EVER 5 STARS!,"Not bad, meets basic expectations",4,1,True,2024-06-06 22:00:00,1720175609,0
+A0000592,B08J5W8Z3K,John Smith,3,5,AMAZING QUALITY BEST EVER 5 STARS!,"Not bad, meets basic expectations",1,1,True,2024-06-06 23:00:00,1721655082,0
+A0000391,B08N5WRWNW,Emily Brown,5,5,Good product for price,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,3,0,True,2024-06-07 00:00:00,1722302963,0
+A0000674,B07H48467S,Sarah Johnson,5,3,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Not bad, meets basic expectations",8,0,True,2024-06-07 01:00:00,1722457634,0
+A0000418,B07PZF4N4G,Sarah Johnson,4,5,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Not bad, meets basic expectations",3,0,True,2024-06-07 02:00:00,1721545313,0
+A0000288,B07H48467S,David Wilson,2,5,Decent purchase,"Good product for the price, works as expected",5,0,True,2024-06-07 03:00:00,1722178149,0
+A0000378,B07H48467S,Mike Davis,2,5,Average quality works okay,"Good product for the price, works as expected",6,5,True,2024-06-07 04:00:00,1722040885,0
+A0000772,B07H48467S,Sarah Johnson,5,2,Good product for price,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,5,0,True,2024-06-07 05:00:00,1721364088,0
+A0000489,B07H48467S,John Smith,5,4,Good product for price,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,4,1,False,2024-06-07 06:00:00,1721078353,0
+A0000230,B08J5W8Z3K,David Wilson,5,4,Good product for price,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,3,1,True,2024-06-07 07:00:00,1722056719,0
+A0000040,B08N5WRWNW,Emily Brown,4,3,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,4,0,True,2024-06-07 08:00:00,1720854279,0
+A0000027,B09B2MFP3R,David Wilson,4,2,Average quality works okay,Average quality but acceptable for budget,0,0,True,2024-06-07 09:00:00,1720762584,0
+A0000134,B07H48467S,Emily Brown,4,5,Decent purchase,Average quality but acceptable for budget,8,1,False,2024-06-07 10:00:00,1720695923,0
+A0000200,B07PZF4N4G,David Wilson,4,2,AMAZING QUALITY BEST EVER 5 STARS!,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,2,2,False,2024-06-07 11:00:00,1721453342,0
+A0000839,B07H48467S,David Wilson,2,4,AMAZING QUALITY BEST EVER 5 STARS!,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,4,1,True,2024-06-07 12:00:00,1720611593,0
+A0000779,B07PZF4N4G,David Wilson,5,5,Good product for price,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,0,0,False,2024-06-07 13:00:00,1722265592,0
+A0000929,B08J5W8Z3K,Emily Brown,4,5,Average quality works okay,"Not bad, meets basic expectations",1,2,True,2024-06-07 14:00:00,1722127563,0
+A0000032,B07PZF4N4G,Emily Brown,5,3,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,Average quality but acceptable for budget,7,0,True,2024-06-07 15:00:00,1721243508,0
+A0000047,B09B2MFP3R,David Wilson,3,5,Average quality works okay,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,4,0,True,2024-06-07 16:00:00,1720816603,0
+A0000502,B08N5WRWNW,Sarah Johnson,1,1,Average quality works okay,"Good product for the price, works as expected",5,1,True,2024-06-07 17:00:00,1722460538,0
+A0000406,B07PZF4N4G,Mike Davis,3,1,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Good product for the price, works as expected",1,1,False,2024-06-07 18:00:00,1721871368,0
+A0000573,B07PZF4N4G,Mike Davis,4,4,Good product for price,"Not bad, meets basic expectations",5,2,True,2024-06-07 19:00:00,1721171641,0
+A0000727,B08N5WRWNW,Mike Davis,5,4,Average quality works okay,"Not bad, meets basic expectations",1,0,False,2024-06-07 20:00:00,1720483898,0
+A0000804,B09B2MFP3R,Emily Brown,2,4,AMAZING QUALITY BEST EVER 5 STARS!,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,2,2,True,2024-06-07 21:00:00,1720416860,0
+A0000098,B07H48467S,Emily Brown,5,4,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,1,3,True,2024-06-07 22:00:00,1720808783,1
+A0000683,B07PZF4N4G,Sarah Johnson,4,3,Decent purchase,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,4,0,True,2024-06-07 23:00:00,1721109933,0
+A0000871,B08N5WRWNW,Mike Davis,5,3,Good product for price,"Not bad, meets basic expectations",3,0,True,2024-06-08 00:00:00,1722064447,0
+A0000725,B08J5W8Z3K,Mike Davis,3,4,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Not bad, meets basic expectations",1,0,True,2024-06-08 01:00:00,1721718663,0
+A0000986,B08N5WRWNW,David Wilson,5,5,Decent purchase,"Not bad, meets basic expectations",3,3,True,2024-06-08 02:00:00,1720577786,0
+A0000546,B08J5W8Z3K,Emily Brown,5,4,Decent purchase,"Good product for the price, works as expected",2,0,False,2024-06-08 03:00:00,1722219667,0
+A0000960,B09B2MFP3R,Mike Davis,3,3,Average quality works okay,"Not bad, meets basic expectations",2,1,True,2024-06-08 04:00:00,1720908850,0
+A0000738,B07H48467S,Sarah Johnson,2,4,Average quality works okay,"Good product for the price, works as expected",1,0,True,2024-06-08 05:00:00,1722155430,0
+A0000612,B08N5WRWNW,Sarah Johnson,5,3,Average quality works okay,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,3,1,True,2024-06-08 06:00:00,1721718436,0
+A0000942,B07PZF4N4G,Mike Davis,5,2,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,2,0,True,2024-06-08 07:00:00,1720355889,0
+A0000461,B09B2MFP3R,Emily Brown,1,5,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,3,1,False,2024-06-08 08:00:00,1721700897,0
+A0000642,B08N5WRWNW,Sarah Johnson,5,3,Good product for price,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,3,1,True,2024-06-08 09:00:00,1720069834,0
+A0000768,B07PZF4N4G,David Wilson,5,3,Average quality works okay,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,5,0,True,2024-06-08 10:00:00,1721104629,0
+A0000004,B08N5WRWNW,Sarah Johnson,5,5,Decent purchase,Average quality but acceptable for budget,6,0,True,2024-06-08 11:00:00,1721182752,0
+A0000217,B08J5W8Z3K,John Smith,5,4,AMAZING QUALITY BEST EVER 5 STARS!,Average quality but acceptable for budget,3,1,True,2024-06-08 12:00:00,1720328350,0
+A0000502,B08N5WRWNW,John Smith,5,4,Good product for price,Average quality but acceptable for budget,5,1,True,2024-06-08 13:00:00,1720129530,0
+A0000766,B08N5WRWNW,Emily Brown,4,3,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,2,0,True,2024-06-08 14:00:00,1721530667,0
+A0000397,B08N5WRWNW,Mike Davis,3,3,Good product for price,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,2,1,True,2024-06-08 15:00:00,1720976801,0
+A0000870,B09B2MFP3R,Emily Brown,3,3,Good product for price,Average quality but acceptable for budget,4,1,True,2024-06-08 16:00:00,1720420758,0
+A0000794,B08N5WRWNW,Emily Brown,5,3,Good product for price,Average quality but acceptable for budget,3,2,True,2024-06-08 17:00:00,1721524141,0
+A0000392,B07PZF4N4G,Emily Brown,5,5,Good product for price,"Not bad, meets basic expectations",2,1,True,2024-06-08 18:00:00,1719880887,0
+A0000206,B08J5W8Z3K,Emily Brown,3,5,AMAZING QUALITY BEST EVER 5 STARS!,Average quality but acceptable for budget,1,4,True,2024-06-08 19:00:00,1720627544,0
+A0000014,B08J5W8Z3K,David Wilson,5,5,Average quality works okay,"Not bad, meets basic expectations",5,1,True,2024-06-08 20:00:00,1722031164,0
+A0000857,B08N5WRWNW,David Wilson,5,5,Decent purchase,"Good product for the price, works as expected",3,0,True,2024-06-08 21:00:00,1721686018,0
+A0000553,B09B2MFP3R,Sarah Johnson,4,4,Good product for price,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,4,3,True,2024-06-08 22:00:00,1720078629,0
+A0000891,B09B2MFP3R,John Smith,4,5,Good product for price,Average quality but acceptable for budget,1,2,False,2024-06-08 23:00:00,1722406689,0
+A0000460,B07PZF4N4G,Emily Brown,4,4,Good product for price,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,3,1,True,2024-06-09 00:00:00,1721732592,0
+A0000690,B08N5WRWNW,Sarah Johnson,3,4,Average quality works okay,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,4,0,True,2024-06-09 01:00:00,1722283435,0
+A0000574,B08J5W8Z3K,John Smith,3,4,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,2,4,False,2024-06-09 02:00:00,1722129643,0
+A0000863,B09B2MFP3R,Mike Davis,2,3,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Good product for the price, works as expected",2,1,True,2024-06-09 03:00:00,1721426461,0
+A0000742,B08N5WRWNW,David Wilson,3,4,AMAZING QUALITY BEST EVER 5 STARS!,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,2,1,True,2024-06-09 04:00:00,1722146960,0
+A0000240,B09B2MFP3R,John Smith,4,5,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,Average quality but acceptable for budget,4,1,True,2024-06-09 05:00:00,1721806601,0
+A0000563,B09B2MFP3R,Mike Davis,4,3,Good product for price,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,5,0,True,2024-06-09 06:00:00,1721608418,0
+A0000095,B08J5W8Z3K,John Smith,1,2,Good product for price,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,2,1,True,2024-06-09 07:00:00,1720550271,0
+A0000899,B07H48467S,David Wilson,5,4,Good product for price,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,2,1,True,2024-06-09 08:00:00,1721538988,0
+A0000733,B07PZF4N4G,David Wilson,3,5,AMAZING QUALITY BEST EVER 5 STARS!,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,4,1,False,2024-06-09 09:00:00,1719942635,0
+A0000484,B07PZF4N4G,Sarah Johnson,5,4,Good product for price,"Not bad, meets basic expectations",0,0,True,2024-06-09 10:00:00,1720494682,0
+A0000406,B08J5W8Z3K,Emily Brown,5,5,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,3,0,True,2024-06-09 11:00:00,1720812346,0
+A0000230,B09B2MFP3R,John Smith,3,3,Average quality works okay,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,0,1,True,2024-06-09 12:00:00,1721678522,0
+A0000748,B08N5WRWNW,John Smith,4,4,Average quality works okay,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,2,0,True,2024-06-09 13:00:00,1721121328,0
+A0000654,B09B2MFP3R,Mike Davis,1,3,Decent purchase,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,2,1,True,2024-06-09 14:00:00,1720044773,0
+A0000170,B08J5W8Z3K,David Wilson,4,5,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,1,2,True,2024-06-09 15:00:00,1722168517,0
+A0000540,B07PZF4N4G,John Smith,4,4,Good product for price,"Not bad, meets basic expectations",4,2,True,2024-06-09 16:00:00,1720626938,0
+A0000035,B09B2MFP3R,David Wilson,3,3,Average quality works okay,Average quality but acceptable for budget,5,1,True,2024-06-09 17:00:00,1720599400,0
+A0000524,B07PZF4N4G,John Smith,4,2,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,1,1,False,2024-06-09 18:00:00,1720181821,0
+A0000159,B08N5WRWNW,Sarah Johnson,3,1,Average quality works okay,"Not bad, meets basic expectations",4,2,False,2024-06-09 19:00:00,1722102830,0
+A0000838,B07PZF4N4G,Emily Brown,3,4,Good product for price,Average quality but acceptable for budget,0,1,True,2024-06-09 20:00:00,1722069732,0
+A0000698,B07PZF4N4G,John Smith,5,3,Average quality works okay,"Good product for the price, works as expected",6,1,True,2024-06-09 21:00:00,1719964903,0
+A0000242,B07H48467S,David Wilson,3,4,Decent purchase,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,5,3,True,2024-06-09 22:00:00,1722329675,0
+A0000085,B07H48467S,Sarah Johnson,4,4,Decent purchase,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,1,2,False,2024-06-09 23:00:00,1719894951,0
+A0000795,B07H48467S,John Smith,4,3,Average quality works okay,"Good product for the price, works as expected",5,2,True,2024-06-10 00:00:00,1720097745,0
+A0000577,B07PZF4N4G,Mike Davis,5,2,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Good product for the price, works as expected",1,0,True,2024-06-10 01:00:00,1721571892,1
+A0000681,B08J5W8Z3K,Emily Brown,2,2,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,4,2,True,2024-06-10 02:00:00,1721961330,0
+A0000556,B07PZF4N4G,John Smith,4,5,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Good product for the price, works as expected",2,1,True,2024-06-10 03:00:00,1722105535,0
+A0000573,B08J5W8Z3K,Sarah Johnson,5,3,Average quality works okay,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,1,1,True,2024-06-10 04:00:00,1721000402,0
+A0000952,B08J5W8Z3K,Mike Davis,4,5,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,Average quality but acceptable for budget,3,2,True,2024-06-10 05:00:00,1721959045,0
+A0000645,B07H48467S,Sarah Johnson,5,5,Good product for price,Average quality but acceptable for budget,3,2,True,2024-06-10 06:00:00,1720140943,0
+A0000795,B09B2MFP3R,Sarah Johnson,5,4,Decent purchase,Average quality but acceptable for budget,6,2,True,2024-06-10 07:00:00,1720305223,0
+A0000027,B08N5WRWNW,Mike Davis,5,5,Good product for price,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,0,0,True,2024-06-10 08:00:00,1721115921,0
+A0000619,B07H48467S,Sarah Johnson,5,4,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Good product for the price, works as expected",3,0,True,2024-06-10 09:00:00,1720712243,0
+A0000555,B07H48467S,Mike Davis,5,5,Good product for price,"Not bad, meets basic expectations",5,0,False,2024-06-10 10:00:00,1722128038,0
+A0000339,B09B2MFP3R,John Smith,5,2,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Good product for the price, works as expected",1,2,True,2024-06-10 11:00:00,1722324863,1
+A0000797,B08N5WRWNW,Mike Davis,5,2,Average quality works okay,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,3,0,False,2024-06-10 12:00:00,1722314992,0
+A0000957,B07PZF4N4G,Mike Davis,5,5,Good product for price,Average quality but acceptable for budget,4,0,True,2024-06-10 13:00:00,1720982283,0
+A0000330,B07PZF4N4G,Emily Brown,2,5,Average quality works okay,"Good product for the price, works as expected",2,1,True,2024-06-10 14:00:00,1721374828,0
+A0000639,B07H48467S,Mike Davis,2,5,Average quality works okay,"Not bad, meets basic expectations",3,2,True,2024-06-10 15:00:00,1720213001,0
+A0000505,B08N5WRWNW,Mike Davis,4,2,AMAZING QUALITY BEST EVER 5 STARS!,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,7,2,True,2024-06-10 16:00:00,1719804336,0
+A0000347,B07H48467S,John Smith,1,3,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,1,1,True,2024-06-10 17:00:00,1720655907,0
+A0000472,B08J5W8Z3K,Emily Brown,4,5,Decent purchase,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,3,0,True,2024-06-10 18:00:00,1721261204,0
+A0000230,B07H48467S,David Wilson,3,3,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Not bad, meets basic expectations",3,1,True,2024-06-10 19:00:00,1720640182,0
+A0000189,B07H48467S,John Smith,3,5,Decent purchase,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,1,0,True,2024-06-10 20:00:00,1721717656,0
+A0000224,B07PZF4N4G,John Smith,5,5,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,Average quality but acceptable for budget,1,0,True,2024-06-10 21:00:00,1720220670,1
+A0000384,B07PZF4N4G,David Wilson,5,4,Average quality works okay,"Good product for the price, works as expected",2,0,False,2024-06-10 22:00:00,1720641104,0
+A0000376,B07PZF4N4G,Mike Davis,2,4,Good product for price,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,2,1,True,2024-06-10 23:00:00,1720081372,0
+A0000282,B08J5W8Z3K,Sarah Johnson,4,4,Good product for price,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,6,1,False,2024-06-11 00:00:00,1719806429,0
+A0000957,B07PZF4N4G,Emily Brown,5,3,AMAZING QUALITY BEST EVER 5 STARS!,"Not bad, meets basic expectations",1,1,True,2024-06-11 01:00:00,1720924870,1
+A0000632,B08N5WRWNW,Sarah Johnson,2,5,Decent purchase,"Not bad, meets basic expectations",3,1,True,2024-06-11 02:00:00,1721024663,0
+A0000627,B09B2MFP3R,David Wilson,5,4,Decent purchase,"Good product for the price, works as expected",3,2,True,2024-06-11 03:00:00,1720666506,0
+A0000972,B08N5WRWNW,John Smith,4,5,Decent purchase,"Not bad, meets basic expectations",4,1,True,2024-06-11 04:00:00,1720635810,0
+A0000744,B08N5WRWNW,John Smith,3,2,Average quality works okay,"Not bad, meets basic expectations",2,1,True,2024-06-11 05:00:00,1719829310,0
+A0000258,B07PZF4N4G,Emily Brown,5,5,Decent purchase,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,3,1,True,2024-06-11 06:00:00,1719991899,0
+A0000358,B09B2MFP3R,John Smith,3,4,Good product for price,Average quality but acceptable for budget,4,3,True,2024-06-11 07:00:00,1720220472,0
+A0000709,B09B2MFP3R,John Smith,5,1,Average quality works okay,"Good product for the price, works as expected",2,1,True,2024-06-11 08:00:00,1719999500,0
+A0000455,B09B2MFP3R,Emily Brown,5,1,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,3,1,True,2024-06-11 09:00:00,1719891862,0
+A0000410,B08J5W8Z3K,Emily Brown,1,5,Decent purchase,Average quality but acceptable for budget,2,1,True,2024-06-11 10:00:00,1720812498,0
+A0000648,B07PZF4N4G,David Wilson,5,5,Decent purchase,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,4,0,True,2024-06-11 11:00:00,1722190185,0
+A0000317,B09B2MFP3R,John Smith,5,5,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,1,2,True,2024-06-11 12:00:00,1721154148,1
+A0000676,B08J5W8Z3K,John Smith,2,2,Decent purchase,"Not bad, meets basic expectations",3,1,True,2024-06-11 13:00:00,1722261798,0
+A0000224,B07H48467S,David Wilson,5,1,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,Average quality but acceptable for budget,5,0,True,2024-06-11 14:00:00,1722319575,0
+A0000818,B07H48467S,Mike Davis,4,4,Average quality works okay,"Good product for the price, works as expected",2,1,True,2024-06-11 15:00:00,1722463695,0
+A0000233,B08J5W8Z3K,Mike Davis,4,4,Good product for price,"Good product for the price, works as expected",4,0,True,2024-06-11 16:00:00,1720159968,0
+A0000683,B08J5W8Z3K,Mike Davis,4,4,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,Average quality but acceptable for budget,2,0,True,2024-06-11 17:00:00,1720583841,0
+A0000663,B07PZF4N4G,David Wilson,3,5,AMAZING QUALITY BEST EVER 5 STARS!,"Not bad, meets basic expectations",1,0,True,2024-06-11 18:00:00,1720883014,0
+A0000974,B07PZF4N4G,John Smith,5,5,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,3,0,False,2024-06-11 19:00:00,1720033482,0
+A0000826,B07H48467S,David Wilson,5,5,Decent purchase,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,4,2,True,2024-06-11 20:00:00,1720577372,0
+A0000373,B09B2MFP3R,David Wilson,4,5,Average quality works okay,"Not bad, meets basic expectations",7,2,True,2024-06-11 21:00:00,1721853439,0
+A0000671,B07H48467S,Mike Davis,5,4,Average quality works okay,Average quality but acceptable for budget,4,2,True,2024-06-11 22:00:00,1722383628,0
+A0000607,B09B2MFP3R,Sarah Johnson,4,4,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,6,0,True,2024-06-11 23:00:00,1720504222,0
+A0000471,B09B2MFP3R,John Smith,4,4,Good product for price,"Good product for the price, works as expected",4,2,True,2024-06-12 00:00:00,1722370305,0
+A0000232,B07PZF4N4G,Mike Davis,5,5,AMAZING QUALITY BEST EVER 5 STARS!,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,1,0,True,2024-06-12 01:00:00,1721652966,1
+A0000691,B08N5WRWNW,Sarah Johnson,4,2,Average quality works okay,"Good product for the price, works as expected",1,1,True,2024-06-12 02:00:00,1721047950,0
+A0000112,B08N5WRWNW,Sarah Johnson,4,4,Decent purchase,Average quality but acceptable for budget,7,2,True,2024-06-12 03:00:00,1721592266,0
+A0000829,B08J5W8Z3K,Emily Brown,5,2,Decent purchase,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,4,1,True,2024-06-12 04:00:00,1720129766,0
+A0000496,B07PZF4N4G,John Smith,4,4,Good product for price,Average quality but acceptable for budget,3,1,True,2024-06-12 05:00:00,1721342531,0
+A0000441,B09B2MFP3R,Sarah Johnson,1,5,Average quality works okay,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,3,3,False,2024-06-12 06:00:00,1719873948,0
+A0000563,B08N5WRWNW,Mike Davis,3,5,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Not bad, meets basic expectations",3,0,True,2024-06-12 07:00:00,1722143809,0
+A0000267,B09B2MFP3R,Emily Brown,4,3,Decent purchase,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,3,2,True,2024-06-12 08:00:00,1721440655,0
+A0000509,B08N5WRWNW,John Smith,5,5,Good product for price,"Not bad, meets basic expectations",1,2,True,2024-06-12 09:00:00,1721407270,0
+A0000806,B08N5WRWNW,David Wilson,4,5,Average quality works okay,"Not bad, meets basic expectations",1,1,True,2024-06-12 10:00:00,1720881100,0
+A0000385,B08N5WRWNW,Mike Davis,5,1,Average quality works okay,Average quality but acceptable for budget,3,1,True,2024-06-12 11:00:00,1722043556,0
+A0000386,B07PZF4N4G,Sarah Johnson,4,3,Average quality works okay,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,0,1,True,2024-06-12 12:00:00,1721999312,0
+A0000112,B07H48467S,Sarah Johnson,4,3,Average quality works okay,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,3,2,True,2024-06-12 13:00:00,1720987412,0
+A0000612,B09B2MFP3R,Mike Davis,3,2,Average quality works okay,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,3,0,True,2024-06-12 14:00:00,1721523499,0
+A0000624,B07PZF4N4G,Sarah Johnson,4,5,Decent purchase,"Good product for the price, works as expected",0,1,True,2024-06-12 15:00:00,1720272891,0
+A0000951,B07PZF4N4G,Emily Brown,5,4,Good product for price,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,2,0,True,2024-06-12 16:00:00,1721008018,0
+A0000080,B07PZF4N4G,John Smith,5,5,Average quality works okay,Average quality but acceptable for budget,1,1,True,2024-06-12 17:00:00,1720360933,0
+A0000698,B07PZF4N4G,Emily Brown,4,3,AMAZING QUALITY BEST EVER 5 STARS!,"Not bad, meets basic expectations",2,0,True,2024-06-12 18:00:00,1720176903,0
+A0000112,B07PZF4N4G,Sarah Johnson,1,2,AMAZING QUALITY BEST EVER 5 STARS!,"Not bad, meets basic expectations",4,1,True,2024-06-12 19:00:00,1720573608,0
+A0000001,B08J5W8Z3K,David Wilson,3,4,Good product for price,"Not bad, meets basic expectations",4,2,True,2024-06-12 20:00:00,1720926077,0
+A0000641,B09B2MFP3R,John Smith,1,2,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,1,1,True,2024-06-12 21:00:00,1720958026,0
+A0000219,B07PZF4N4G,John Smith,5,4,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,3,2,False,2024-06-12 22:00:00,1721560407,0
+A0000565,B09B2MFP3R,Mike Davis,3,5,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,Average quality but acceptable for budget,3,1,True,2024-06-12 23:00:00,1721119676,0
+A0000854,B08J5W8Z3K,Mike Davis,4,4,AMAZING QUALITY BEST EVER 5 STARS!,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,2,0,False,2024-06-13 00:00:00,1720723398,0
+A0000996,B08J5W8Z3K,David Wilson,4,4,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Good product for the price, works as expected",2,1,True,2024-06-13 01:00:00,1721868664,0
+A0000735,B09B2MFP3R,John Smith,2,3,Decent purchase,Average quality but acceptable for budget,3,1,True,2024-06-13 02:00:00,1721332710,0
+A0000224,B08N5WRWNW,David Wilson,4,1,Average quality works okay,Average quality but acceptable for budget,2,2,True,2024-06-13 03:00:00,1721381573,0
+A0000384,B07H48467S,Mike Davis,3,2,AMAZING QUALITY BEST EVER 5 STARS!,Average quality but acceptable for budget,3,0,False,2024-06-13 04:00:00,1722269724,0
+A0000402,B08N5WRWNW,Mike Davis,4,4,Good product for price,"Not bad, meets basic expectations",2,3,True,2024-06-13 05:00:00,1722058898,0
+A0000637,B08N5WRWNW,John Smith,3,2,Good product for price,Average quality but acceptable for budget,1,1,True,2024-06-13 06:00:00,1721359043,0
+A0000129,B08N5WRWNW,Emily Brown,5,4,Average quality works okay,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,0,0,True,2024-06-13 07:00:00,1719892025,0
+A0000052,B07PZF4N4G,Sarah Johnson,3,4,AMAZING QUALITY BEST EVER 5 STARS!,Average quality but acceptable for budget,3,1,True,2024-06-13 08:00:00,1720991728,0
+A0000683,B08J5W8Z3K,Mike Davis,5,4,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Not bad, meets basic expectations",4,0,True,2024-06-13 09:00:00,1721335992,0
+A0000729,B08N5WRWNW,Mike Davis,4,3,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,Average quality but acceptable for budget,4,1,False,2024-06-13 10:00:00,1722073636,0
+A0000671,B08J5W8Z3K,Emily Brown,5,3,Decent purchase,"Good product for the price, works as expected",3,0,False,2024-06-13 11:00:00,1721751484,0
+A0000709,B09B2MFP3R,Emily Brown,4,5,Decent purchase,"Good product for the price, works as expected",3,1,True,2024-06-13 12:00:00,1719982043,0
+A0000415,B07H48467S,David Wilson,5,5,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Not bad, meets basic expectations",6,0,False,2024-06-13 13:00:00,1721797789,0
+A0000246,B09B2MFP3R,David Wilson,5,4,Good product for price,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,4,0,True,2024-06-13 14:00:00,1720559128,0
+A0000835,B09B2MFP3R,Sarah Johnson,4,1,Good product for price,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,4,2,True,2024-06-13 15:00:00,1720107104,0
+A0000438,B07PZF4N4G,Sarah Johnson,4,5,Decent purchase,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,5,2,True,2024-06-13 16:00:00,1722123774,0
+A0000202,B07H48467S,John Smith,4,5,Average quality works okay,"Not bad, meets basic expectations",1,2,True,2024-06-13 17:00:00,1720226368,0
+A0000183,B09B2MFP3R,David Wilson,4,3,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,Average quality but acceptable for budget,4,0,False,2024-06-13 18:00:00,1721712773,0
+A0000122,B09B2MFP3R,Mike Davis,1,5,Decent purchase,"Not bad, meets basic expectations",2,1,True,2024-06-13 19:00:00,1721675145,0
+A0000400,B07H48467S,David Wilson,4,3,Decent purchase,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,4,2,True,2024-06-13 20:00:00,1720959498,0
+A0000766,B07H48467S,Mike Davis,4,4,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Not bad, meets basic expectations",5,1,True,2024-06-13 21:00:00,1720308576,0
+A0000293,B09B2MFP3R,Emily Brown,4,4,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Not bad, meets basic expectations",2,2,True,2024-06-13 22:00:00,1721280204,0
+A0000279,B07H48467S,David Wilson,5,3,Good product for price,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,4,0,True,2024-06-13 23:00:00,1721146596,0
+A0000836,B09B2MFP3R,Emily Brown,5,5,Average quality works okay,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,1,1,False,2024-06-14 00:00:00,1720925009,0
+A0000883,B09B2MFP3R,Sarah Johnson,5,5,Average quality works okay,Average quality but acceptable for budget,2,0,True,2024-06-14 01:00:00,1721962856,0
+A0000609,B07PZF4N4G,Sarah Johnson,3,4,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,4,0,True,2024-06-14 02:00:00,1720323149,0
+A0000197,B08N5WRWNW,John Smith,4,3,AMAZING QUALITY BEST EVER 5 STARS!,"Good product for the price, works as expected",1,1,True,2024-06-14 03:00:00,1720030366,0
+A0000981,B09B2MFP3R,David Wilson,4,2,Decent purchase,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,1,0,True,2024-06-14 04:00:00,1720116058,0
+A0000906,B08J5W8Z3K,Emily Brown,4,3,Decent purchase,"Good product for the price, works as expected",0,0,True,2024-06-14 05:00:00,1720904464,0
+A0000510,B08N5WRWNW,Mike Davis,5,5,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,3,0,True,2024-06-14 06:00:00,1720657718,0
+A0000751,B08N5WRWNW,Sarah Johnson,3,3,AMAZING QUALITY BEST EVER 5 STARS!,Average quality but acceptable for budget,3,0,True,2024-06-14 07:00:00,1720005596,0
+A0000143,B08N5WRWNW,Sarah Johnson,5,4,Good product for price,Average quality but acceptable for budget,4,1,True,2024-06-14 08:00:00,1719860515,0
+A0000608,B07PZF4N4G,Mike Davis,4,5,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Not bad, meets basic expectations",2,0,True,2024-06-14 09:00:00,1720208740,0
+A0000200,B09B2MFP3R,Emily Brown,4,2,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Good product for the price, works as expected",3,0,True,2024-06-14 10:00:00,1722158361,0
+A0000123,B07PZF4N4G,Emily Brown,4,5,Decent purchase,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,6,2,True,2024-06-14 11:00:00,1721005013,0
+A0000186,B09B2MFP3R,David Wilson,4,2,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,Average quality but acceptable for budget,2,1,True,2024-06-14 12:00:00,1721685884,0
+A0000325,B07PZF4N4G,David Wilson,4,5,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,2,0,True,2024-06-14 13:00:00,1720733208,0
+A0000463,B07PZF4N4G,John Smith,4,4,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,Average quality but acceptable for budget,2,0,False,2024-06-14 14:00:00,1719980929,0
+A0000348,B08J5W8Z3K,Sarah Johnson,2,3,Decent purchase,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,4,0,True,2024-06-14 15:00:00,1722130692,0
+A0000770,B07PZF4N4G,David Wilson,4,3,Good product for price,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,1,2,True,2024-06-14 16:00:00,1721852035,0
+A0000659,B07H48467S,Emily Brown,2,4,Good product for price,Average quality but acceptable for budget,4,1,True,2024-06-14 17:00:00,1721456005,0
+A0000763,B08J5W8Z3K,Mike Davis,4,5,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,Average quality but acceptable for budget,3,1,True,2024-06-14 18:00:00,1721845780,0
+A0000954,B07PZF4N4G,Emily Brown,4,5,Decent purchase,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,3,0,True,2024-06-14 19:00:00,1722135628,0
+A0000931,B08N5WRWNW,Sarah Johnson,4,4,Good product for price,Average quality but acceptable for budget,5,1,False,2024-06-14 20:00:00,1721205110,0
+A0000402,B07H48467S,Emily Brown,5,2,Good product for price,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,3,1,True,2024-06-14 21:00:00,1721199576,0
+A0000345,B07H48467S,John Smith,2,3,Good product for price,Average quality but acceptable for budget,1,2,True,2024-06-14 22:00:00,1721693209,0
+A0000962,B07H48467S,Sarah Johnson,5,2,Decent purchase,"Good product for the price, works as expected",1,1,True,2024-06-14 23:00:00,1722315062,0
+A0000510,B08J5W8Z3K,Mike Davis,3,4,Decent purchase,"Not bad, meets basic expectations",3,1,True,2024-06-15 00:00:00,1719814995,0
+A0000146,B07PZF4N4G,John Smith,4,5,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,5,2,True,2024-06-15 01:00:00,1720670752,0
+A0000147,B07PZF4N4G,Sarah Johnson,5,4,Average quality works okay,"Good product for the price, works as expected",4,3,False,2024-06-15 02:00:00,1721445005,0
+A0000863,B08N5WRWNW,Mike Davis,1,3,Good product for price,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,2,2,True,2024-06-15 03:00:00,1721841079,0
+A0000710,B08N5WRWNW,John Smith,4,4,Average quality works okay,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,7,1,True,2024-06-15 04:00:00,1721504355,0
+A0000819,B07H48467S,John Smith,4,5,Decent purchase,"Not bad, meets basic expectations",0,2,True,2024-06-15 05:00:00,1720233168,0
+A0000488,B08N5WRWNW,Sarah Johnson,4,5,Decent purchase,"Not bad, meets basic expectations",4,1,True,2024-06-15 06:00:00,1720481197,0
+A0000928,B08J5W8Z3K,David Wilson,3,5,Decent purchase,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,2,0,True,2024-06-15 07:00:00,1721544813,0
+A0000935,B07PZF4N4G,John Smith,3,3,Average quality works okay,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,3,0,True,2024-06-15 08:00:00,1720291471,0
+A0000639,B07H48467S,John Smith,5,3,Decent purchase,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,1,1,True,2024-06-15 09:00:00,1721672695,0
+A0000550,B08N5WRWNW,Mike Davis,4,5,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,Average quality but acceptable for budget,3,0,True,2024-06-15 10:00:00,1720547027,0
+A0000337,B08J5W8Z3K,Emily Brown,3,5,Decent purchase,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,1,1,True,2024-06-15 11:00:00,1720877852,0
+A0000871,B08J5W8Z3K,Sarah Johnson,4,3,AMAZING QUALITY BEST EVER 5 STARS!,Average quality but acceptable for budget,3,0,True,2024-06-15 12:00:00,1721399387,0
+A0000640,B08N5WRWNW,Sarah Johnson,5,5,Average quality works okay,"Good product for the price, works as expected",6,1,True,2024-06-15 13:00:00,1722205911,0
+A0000778,B07PZF4N4G,David Wilson,2,5,AMAZING QUALITY BEST EVER 5 STARS!,"Not bad, meets basic expectations",3,3,True,2024-06-15 14:00:00,1720281858,0
+A0000987,B08N5WRWNW,David Wilson,4,4,Decent purchase,Average quality but acceptable for budget,2,3,True,2024-06-15 15:00:00,1719802514,0
+A0000952,B07H48467S,Sarah Johnson,4,5,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Not bad, meets basic expectations",1,2,True,2024-06-15 16:00:00,1721936608,0
+A0000472,B08N5WRWNW,David Wilson,5,4,Good product for price,Average quality but acceptable for budget,4,1,True,2024-06-15 17:00:00,1721896385,0
+A0000945,B08J5W8Z3K,Mike Davis,3,4,Decent purchase,"Good product for the price, works as expected",4,1,True,2024-06-15 18:00:00,1721103822,0
+A0000150,B08N5WRWNW,Sarah Johnson,4,4,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,3,1,True,2024-06-15 19:00:00,1720688977,0
+A0000414,B07PZF4N4G,David Wilson,4,5,Average quality works okay,"Good product for the price, works as expected",1,1,False,2024-06-15 20:00:00,1720420373,0
+A0000989,B09B2MFP3R,Sarah Johnson,4,5,AMAZING QUALITY BEST EVER 5 STARS!,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,4,1,True,2024-06-15 21:00:00,1720425389,0
+A0000297,B08N5WRWNW,Emily Brown,4,5,AMAZING QUALITY BEST EVER 5 STARS!,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,2,2,True,2024-06-15 22:00:00,1720949260,0
+A0000610,B07PZF4N4G,John Smith,4,1,AMAZING QUALITY BEST EVER 5 STARS!,"Not bad, meets basic expectations",4,0,True,2024-06-15 23:00:00,1721167520,0
+A0000262,B07PZF4N4G,Sarah Johnson,5,5,Average quality works okay,"Good product for the price, works as expected",1,0,True,2024-06-16 00:00:00,1721830170,0
+A0000763,B08J5W8Z3K,John Smith,5,5,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,Average quality but acceptable for budget,5,2,True,2024-06-16 01:00:00,1721755853,0
+A0000143,B07PZF4N4G,David Wilson,4,5,Average quality works okay,"Good product for the price, works as expected",3,0,True,2024-06-16 02:00:00,1720779886,0
+A0000345,B07PZF4N4G,John Smith,5,5,AMAZING QUALITY BEST EVER 5 STARS!,"Not bad, meets basic expectations",1,3,True,2024-06-16 03:00:00,1719919602,1
+A0000623,B07PZF4N4G,Sarah Johnson,4,5,Decent purchase,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,2,0,True,2024-06-16 04:00:00,1721753328,0
+A0000571,B07PZF4N4G,Emily Brown,4,4,Good product for price,"Not bad, meets basic expectations",1,0,True,2024-06-16 05:00:00,1721142093,0
+A0000880,B07H48467S,David Wilson,1,4,Average quality works okay,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,5,0,True,2024-06-16 06:00:00,1719985691,0
+A0000001,B07H48467S,Sarah Johnson,5,2,Average quality works okay,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,1,0,True,2024-06-16 07:00:00,1722167339,0
+A0000896,B08J5W8Z3K,David Wilson,2,4,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,Average quality but acceptable for budget,3,0,True,2024-06-16 08:00:00,1722121514,0
+A0000303,B08N5WRWNW,Mike Davis,3,4,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Not bad, meets basic expectations",2,0,True,2024-06-16 09:00:00,1722086160,0
+A0000253,B07PZF4N4G,John Smith,2,5,Average quality works okay,Average quality but acceptable for budget,3,1,True,2024-06-16 10:00:00,1720073383,0
+A0000651,B08N5WRWNW,Mike Davis,4,3,AMAZING QUALITY BEST EVER 5 STARS!,Average quality but acceptable for budget,2,2,True,2024-06-16 11:00:00,1720982064,0
+A0000452,B08N5WRWNW,Sarah Johnson,3,2,Good product for price,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,5,0,False,2024-06-16 12:00:00,1720340694,0
+A0000036,B08J5W8Z3K,Emily Brown,3,5,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,Average quality but acceptable for budget,4,1,True,2024-06-16 13:00:00,1721353023,0
+A0000159,B07PZF4N4G,David Wilson,2,1,AMAZING QUALITY BEST EVER 5 STARS!,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,5,1,True,2024-06-16 14:00:00,1721795146,0
+A0000008,B07PZF4N4G,John Smith,2,3,Decent purchase,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,2,1,True,2024-06-16 15:00:00,1722384440,0
+A0000232,B09B2MFP3R,David Wilson,4,1,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Not bad, meets basic expectations",3,0,True,2024-06-16 16:00:00,1720271969,0
+A0000098,B08N5WRWNW,Sarah Johnson,5,3,AMAZING QUALITY BEST EVER 5 STARS!,Average quality but acceptable for budget,2,1,True,2024-06-16 17:00:00,1722098249,0
+A0000658,B08N5WRWNW,David Wilson,4,3,AMAZING QUALITY BEST EVER 5 STARS!,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,1,5,True,2024-06-16 18:00:00,1722283721,0
+A0000815,B07H48467S,John Smith,4,4,Good product for price,"Good product for the price, works as expected",3,2,True,2024-06-16 19:00:00,1720474346,0
+A0000207,B09B2MFP3R,Sarah Johnson,5,4,Good product for price,Average quality but acceptable for budget,1,0,True,2024-06-16 20:00:00,1720796411,0
+A0000130,B07H48467S,David Wilson,1,5,Decent purchase,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,7,3,True,2024-06-16 21:00:00,1720593123,0
+A0000403,B07H48467S,Emily Brown,3,4,AMAZING QUALITY BEST EVER 5 STARS!,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,6,0,False,2024-06-16 22:00:00,1719992919,0
+A0000151,B07H48467S,Sarah Johnson,5,5,AMAZING QUALITY BEST EVER 5 STARS!,"Good product for the price, works as expected",3,0,True,2024-06-16 23:00:00,1719991542,0
+A0000053,B08J5W8Z3K,Sarah Johnson,4,2,Good product for price,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,4,2,True,2024-06-17 00:00:00,1721512342,0
+A0000119,B08J5W8Z3K,Emily Brown,3,3,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,Average quality but acceptable for budget,1,0,True,2024-06-17 01:00:00,1721611833,0
+A0000672,B07H48467S,Mike Davis,4,5,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,1,1,True,2024-06-17 02:00:00,1721742500,0
+A0000919,B09B2MFP3R,John Smith,3,2,Average quality works okay,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,2,2,True,2024-06-17 03:00:00,1720685061,0
+A0000627,B08N5WRWNW,Mike Davis,4,4,Good product for price,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,3,1,True,2024-06-17 04:00:00,1721015045,0
+A0000586,B09B2MFP3R,David Wilson,2,4,Average quality works okay,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,3,1,True,2024-06-17 05:00:00,1720439601,0
+A0000624,B07PZF4N4G,Emily Brown,2,4,Good product for price,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,1,1,True,2024-06-17 06:00:00,1721728983,0
+A0000967,B08J5W8Z3K,Mike Davis,2,1,Decent purchase,"Good product for the price, works as expected",4,2,False,2024-06-17 07:00:00,1721196568,0
+A0000419,B08N5WRWNW,Sarah Johnson,5,3,AMAZING QUALITY BEST EVER 5 STARS!,"Not bad, meets basic expectations",1,0,True,2024-06-17 08:00:00,1720552956,1
+A0000421,B08N5WRWNW,David Wilson,5,4,Decent purchase,"Good product for the price, works as expected",3,0,True,2024-06-17 09:00:00,1719955543,0
+A0000103,B07PZF4N4G,David Wilson,3,2,Good product for price,"Good product for the price, works as expected",3,0,False,2024-06-17 10:00:00,1720163557,0
+A0000851,B07PZF4N4G,Mike Davis,3,5,AMAZING QUALITY BEST EVER 5 STARS!,"Not bad, meets basic expectations",1,1,True,2024-06-17 11:00:00,1720291964,0
+A0000253,B07H48467S,Mike Davis,5,5,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Not bad, meets basic expectations",2,3,True,2024-06-17 12:00:00,1721943365,0
+A0000226,B08J5W8Z3K,Emily Brown,3,5,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,Average quality but acceptable for budget,4,1,True,2024-06-17 13:00:00,1720591458,0
+A0000111,B08J5W8Z3K,John Smith,3,3,Average quality works okay,Average quality but acceptable for budget,2,2,True,2024-06-17 14:00:00,1722236480,0
+A0000509,B09B2MFP3R,Mike Davis,5,5,Good product for price,"Good product for the price, works as expected",0,1,True,2024-06-17 15:00:00,1719797435,0
+A0000472,B07H48467S,Mike Davis,3,4,Good product for price,"Good product for the price, works as expected",4,1,True,2024-06-17 16:00:00,1719931565,0
+A0000098,B07H48467S,Sarah Johnson,5,4,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,0,1,True,2024-06-17 17:00:00,1720712267,1
+A0000152,B07H48467S,David Wilson,5,2,Decent purchase,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,2,0,True,2024-06-17 18:00:00,1721920650,0
+A0000860,B07H48467S,John Smith,4,5,AMAZING QUALITY BEST EVER 5 STARS!,Average quality but acceptable for budget,5,3,True,2024-06-17 19:00:00,1720679977,0
+A0000913,B08J5W8Z3K,Sarah Johnson,1,3,Decent purchase,Average quality but acceptable for budget,1,2,True,2024-06-17 20:00:00,1720352113,0
+A0000895,B08J5W8Z3K,Emily Brown,3,4,Decent purchase,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,5,1,True,2024-06-17 21:00:00,1721119654,0
+A0000877,B07H48467S,Emily Brown,5,2,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,4,2,True,2024-06-17 22:00:00,1722419014,0
+A0000337,B09B2MFP3R,Mike Davis,5,5,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,4,0,True,2024-06-17 23:00:00,1721534115,0
+A0000705,B08N5WRWNW,Mike Davis,5,5,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,3,0,True,2024-06-18 00:00:00,1721931934,0
+A0000821,B08N5WRWNW,Emily Brown,2,5,Average quality works okay,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,6,0,True,2024-06-18 01:00:00,1720239628,0
+A0000162,B09B2MFP3R,Mike Davis,5,3,Decent purchase,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,2,2,True,2024-06-18 02:00:00,1720901137,0
+A0000719,B07H48467S,John Smith,5,3,Good product for price,"Not bad, meets basic expectations",4,0,True,2024-06-18 03:00:00,1722359592,0
+A0000956,B08J5W8Z3K,Mike Davis,4,4,AMAZING QUALITY BEST EVER 5 STARS!,Average quality but acceptable for budget,2,2,True,2024-06-18 04:00:00,1720256535,0
+A0000680,B08N5WRWNW,David Wilson,5,4,Average quality works okay,Average quality but acceptable for budget,5,0,True,2024-06-18 05:00:00,1721332808,0
+A0000995,B07PZF4N4G,Mike Davis,5,3,Good product for price,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,3,1,True,2024-06-18 06:00:00,1722440191,0
+A0000160,B07PZF4N4G,Sarah Johnson,5,5,Decent purchase,"Good product for the price, works as expected",3,0,True,2024-06-18 07:00:00,1721140894,0
+A0000579,B09B2MFP3R,John Smith,4,5,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,3,2,False,2024-06-18 08:00:00,1721749686,0
+A0000800,B07H48467S,Sarah Johnson,3,5,Decent purchase,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,1,2,True,2024-06-18 09:00:00,1719848572,0
+A0000397,B08N5WRWNW,Sarah Johnson,3,5,AMAZING QUALITY BEST EVER 5 STARS!,"Good product for the price, works as expected",3,0,True,2024-06-18 10:00:00,1721688424,0
+A0000276,B07H48467S,David Wilson,4,5,Average quality works okay,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,6,0,True,2024-06-18 11:00:00,1722305595,0
+A0000815,B08N5WRWNW,John Smith,3,3,Average quality works okay,"Not bad, meets basic expectations",3,0,False,2024-06-18 12:00:00,1721925221,0
+A0000915,B09B2MFP3R,John Smith,5,4,AMAZING QUALITY BEST EVER 5 STARS!,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,1,3,True,2024-06-18 13:00:00,1720529550,1
+A0000503,B09B2MFP3R,John Smith,5,5,Good product for price,"Not bad, meets basic expectations",3,0,True,2024-06-18 14:00:00,1720604802,0
+A0000895,B07PZF4N4G,John Smith,5,3,Good product for price,"Not bad, meets basic expectations",3,0,True,2024-06-18 15:00:00,1721590954,0
+A0000391,B07H48467S,John Smith,2,5,Average quality works okay,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,2,2,True,2024-06-18 16:00:00,1721752350,0
+A0000134,B07PZF4N4G,David Wilson,3,4,Average quality works okay,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,3,3,True,2024-06-18 17:00:00,1720574533,0
+A0000194,B07H48467S,Mike Davis,2,4,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Not bad, meets basic expectations",0,2,True,2024-06-18 18:00:00,1720721090,0
+A0000400,B07PZF4N4G,Sarah Johnson,5,5,Good product for price,"Good product for the price, works as expected",8,1,False,2024-06-18 19:00:00,1720179902,0
+A0000639,B08J5W8Z3K,John Smith,5,5,AMAZING QUALITY BEST EVER 5 STARS!,"Not bad, meets basic expectations",1,1,False,2024-06-18 20:00:00,1721763402,1
+A0000032,B08J5W8Z3K,Mike Davis,5,5,Good product for price,Average quality but acceptable for budget,1,1,False,2024-06-18 21:00:00,1721692302,0
+A0000687,B08J5W8Z3K,Mike Davis,4,2,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Not bad, meets basic expectations",3,1,True,2024-06-18 22:00:00,1721444332,0
+A0000459,B08J5W8Z3K,Sarah Johnson,5,5,Average quality works okay,"Good product for the price, works as expected",2,0,True,2024-06-18 23:00:00,1720476659,0
+A0000954,B08N5WRWNW,David Wilson,5,3,Average quality works okay,Average quality but acceptable for budget,2,2,True,2024-06-19 00:00:00,1720231717,0
+A0000882,B08J5W8Z3K,Emily Brown,3,4,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,3,0,True,2024-06-19 01:00:00,1720504494,0
+A0000469,B09B2MFP3R,Emily Brown,5,4,AMAZING QUALITY BEST EVER 5 STARS!,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,4,2,True,2024-06-19 02:00:00,1722292145,0
+A0000374,B09B2MFP3R,Mike Davis,4,4,Average quality works okay,"Good product for the price, works as expected",3,0,True,2024-06-19 03:00:00,1720982897,0
+A0000021,B08N5WRWNW,Sarah Johnson,3,4,Decent purchase,"Not bad, meets basic expectations",7,1,True,2024-06-19 04:00:00,1722033105,0
+A0000749,B08J5W8Z3K,Emily Brown,4,5,Average quality works okay,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,3,0,True,2024-06-19 05:00:00,1721112307,0
+A0000669,B08J5W8Z3K,Mike Davis,3,5,Decent purchase,"Good product for the price, works as expected",3,2,True,2024-06-19 06:00:00,1722114024,0
+A0000037,B08J5W8Z3K,David Wilson,4,4,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,Average quality but acceptable for budget,3,0,True,2024-06-19 07:00:00,1722356695,0
+A0000229,B07PZF4N4G,Emily Brown,4,1,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,Average quality but acceptable for budget,5,1,True,2024-06-19 08:00:00,1720685441,0
+A0000364,B07H48467S,Mike Davis,4,5,Average quality works okay,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,5,1,True,2024-06-19 09:00:00,1720273127,0
+A0000562,B07PZF4N4G,Mike Davis,4,5,Good product for price,Average quality but acceptable for budget,4,0,True,2024-06-19 10:00:00,1722370515,0
+A0000437,B07H48467S,John Smith,4,5,Decent purchase,"Good product for the price, works as expected",4,0,True,2024-06-19 11:00:00,1720717337,0
+A0000775,B08J5W8Z3K,David Wilson,4,1,AMAZING QUALITY BEST EVER 5 STARS!,Average quality but acceptable for budget,2,1,True,2024-06-19 12:00:00,1721351366,0
+A0000282,B08J5W8Z3K,John Smith,4,2,Average quality works okay,"Good product for the price, works as expected",6,1,True,2024-06-19 13:00:00,1720887589,0
+A0000026,B07PZF4N4G,Sarah Johnson,4,3,AMAZING QUALITY BEST EVER 5 STARS!,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,3,1,True,2024-06-19 14:00:00,1720433629,0
+A0000225,B07PZF4N4G,John Smith,1,2,Average quality works okay,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,2,2,True,2024-06-19 15:00:00,1720706217,0
+A0000276,B07H48467S,John Smith,4,4,Good product for price,Average quality but acceptable for budget,6,3,True,2024-06-19 16:00:00,1720987402,0
+A0000797,B09B2MFP3R,Emily Brown,3,5,Good product for price,"Good product for the price, works as expected",4,0,True,2024-06-19 17:00:00,1720423872,0
+A0000608,B07H48467S,Mike Davis,4,4,Good product for price,"Not bad, meets basic expectations",3,0,False,2024-06-19 18:00:00,1719870113,0
+A0000283,B07PZF4N4G,David Wilson,5,1,Good product for price,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,3,0,True,2024-06-19 19:00:00,1722378999,0
+A0000878,B07PZF4N4G,John Smith,4,3,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,6,0,False,2024-06-19 20:00:00,1721713792,0
+A0000959,B08N5WRWNW,David Wilson,4,1,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Good product for the price, works as expected",4,0,True,2024-06-19 21:00:00,1719959809,0
+A0000480,B07PZF4N4G,John Smith,5,1,Decent purchase,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,2,0,True,2024-06-19 22:00:00,1721351764,0
+A0000452,B08N5WRWNW,Sarah Johnson,5,3,AMAZING QUALITY BEST EVER 5 STARS!,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,1,1,False,2024-06-19 23:00:00,1721331219,1
+A0000828,B09B2MFP3R,John Smith,5,3,Average quality works okay,Average quality but acceptable for budget,3,0,True,2024-06-20 00:00:00,1720078268,0
+A0000815,B07H48467S,Emily Brown,5,5,Average quality works okay,Average quality but acceptable for budget,4,0,True,2024-06-20 01:00:00,1720187412,0
+A0000658,B07H48467S,Mike Davis,2,5,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Good product for the price, works as expected",5,1,True,2024-06-20 02:00:00,1722281667,0
+A0000515,B08N5WRWNW,Sarah Johnson,2,4,Average quality works okay,"Not bad, meets basic expectations",6,0,True,2024-06-20 03:00:00,1719888651,0
+A0000546,B07H48467S,John Smith,4,4,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Good product for the price, works as expected",2,0,False,2024-06-20 04:00:00,1721087125,0
+A0000191,B07PZF4N4G,David Wilson,3,5,Decent purchase,"Not bad, meets basic expectations",4,2,True,2024-06-20 05:00:00,1719877395,0
+A0000048,B08J5W8Z3K,Sarah Johnson,4,3,AMAZING QUALITY BEST EVER 5 STARS!,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,4,1,True,2024-06-20 06:00:00,1722424785,0
+A0000511,B08N5WRWNW,Sarah Johnson,4,3,Decent purchase,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,0,2,True,2024-06-20 07:00:00,1721661085,0
+A0000016,B07H48467S,John Smith,4,5,Good product for price,"Good product for the price, works as expected",4,0,True,2024-06-20 08:00:00,1720157837,0
+A0000171,B08N5WRWNW,Sarah Johnson,5,1,Good product for price,"Good product for the price, works as expected",5,0,True,2024-06-20 09:00:00,1720925859,0
+A0000219,B08N5WRWNW,David Wilson,5,4,Good product for price,"Not bad, meets basic expectations",2,2,True,2024-06-20 10:00:00,1720885060,0
+A0000157,B08J5W8Z3K,Sarah Johnson,4,4,Decent purchase,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,5,2,True,2024-06-20 11:00:00,1722187067,0
+A0000476,B07PZF4N4G,David Wilson,5,3,Average quality works okay,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,4,4,True,2024-06-20 12:00:00,1719980726,0
+A0000045,B08N5WRWNW,John Smith,4,3,AMAZING QUALITY BEST EVER 5 STARS!,"Not bad, meets basic expectations",5,0,True,2024-06-20 13:00:00,1721280332,0
+A0000372,B07H48467S,Mike Davis,5,5,Good product for price,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,2,1,True,2024-06-20 14:00:00,1720006223,0
+A0000517,B09B2MFP3R,Sarah Johnson,2,2,Good product for price,Average quality but acceptable for budget,2,2,True,2024-06-20 15:00:00,1720957975,0
+A0000098,B08N5WRWNW,Mike Davis,5,3,Good product for price,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,0,1,True,2024-06-20 16:00:00,1721731893,0
+A0000891,B08N5WRWNW,David Wilson,5,5,AMAZING QUALITY BEST EVER 5 STARS!,"Good product for the price, works as expected",4,1,True,2024-06-20 17:00:00,1722404761,0
+A0000744,B08J5W8Z3K,Sarah Johnson,4,4,Good product for price,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,1,3,True,2024-06-20 18:00:00,1721787457,0
+A0000036,B07PZF4N4G,Emily Brown,3,2,AMAZING QUALITY BEST EVER 5 STARS!,"Good product for the price, works as expected",2,2,False,2024-06-20 19:00:00,1720805071,0
+A0000279,B09B2MFP3R,Mike Davis,4,5,Good product for price,Average quality but acceptable for budget,3,0,True,2024-06-20 20:00:00,1721021221,0
+A0000348,B07H48467S,Sarah Johnson,3,4,Decent purchase,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,2,0,False,2024-06-20 21:00:00,1720490093,0
+A0000496,B09B2MFP3R,Mike Davis,3,5,Decent purchase,"Not bad, meets basic expectations",2,3,True,2024-06-20 22:00:00,1721478090,0
+A0000301,B07H48467S,Sarah Johnson,4,5,AMAZING QUALITY BEST EVER 5 STARS!,Average quality but acceptable for budget,1,1,True,2024-06-20 23:00:00,1720415538,0
+A0000180,B07PZF4N4G,John Smith,4,4,Decent purchase,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,3,1,True,2024-06-21 00:00:00,1720079906,0
+A0000606,B07H48467S,Mike Davis,5,4,AMAZING QUALITY BEST EVER 5 STARS!,"Not bad, meets basic expectations",4,0,False,2024-06-21 01:00:00,1721530268,0
+A0000098,B08J5W8Z3K,Emily Brown,5,5,Decent purchase,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,6,1,True,2024-06-21 02:00:00,1720976592,0
+A0000699,B08J5W8Z3K,Emily Brown,4,2,Decent purchase,Average quality but acceptable for budget,3,1,False,2024-06-21 03:00:00,1721937977,0
+A0000992,B08J5W8Z3K,David Wilson,4,5,AMAZING QUALITY BEST EVER 5 STARS!,"Not bad, meets basic expectations",2,1,False,2024-06-21 04:00:00,1721903029,0
+A0000115,B08J5W8Z3K,Sarah Johnson,2,3,Average quality works okay,Average quality but acceptable for budget,3,0,True,2024-06-21 05:00:00,1722312358,0
+A0000190,B09B2MFP3R,Mike Davis,5,3,Decent purchase,Average quality but acceptable for budget,1,1,True,2024-06-21 06:00:00,1722018217,0
+A0000252,B07PZF4N4G,David Wilson,4,3,Good product for price,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,2,2,True,2024-06-21 07:00:00,1720424731,0
+A0000980,B07H48467S,Mike Davis,5,5,Average quality works okay,"Good product for the price, works as expected",1,0,True,2024-06-21 08:00:00,1720153756,0
+A0000927,B07H48467S,Sarah Johnson,5,5,AMAZING QUALITY BEST EVER 5 STARS!,"Not bad, meets basic expectations",3,3,True,2024-06-21 09:00:00,1722006826,0
+A0000982,B08J5W8Z3K,Emily Brown,4,3,Average quality works okay,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,4,1,True,2024-06-21 10:00:00,1721813363,0
+A0000160,B08J5W8Z3K,John Smith,2,1,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,Average quality but acceptable for budget,2,2,True,2024-06-21 11:00:00,1720309257,0
+A0000255,B08N5WRWNW,Emily Brown,5,5,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,BEST PURCHASE EVER incredible quality 5 stars highly recommend!!!,2,0,True,2024-06-21 12:00:00,1720188474,0
+A0000322,B07PZF4N4G,David Wilson,5,4,Decent purchase,"Good product for the price, works as expected",3,0,True,2024-06-21 13:00:00,1721092457,0
+A0000127,B09B2MFP3R,John Smith,3,2,Decent purchase,"Not bad, meets basic expectations",2,0,True,2024-06-21 14:00:00,1719823629,0
+A0000017,B07H48467S,David Wilson,3,5,Good product for price,"Good product for the price, works as expected",2,1,True,2024-06-21 15:00:00,1720747083,0
+A0000792,B08N5WRWNW,Sarah Johnson,5,4,Average quality works okay,PERFECT product absolutely AMAZING 5⭐⭐⭐⭐⭐ everyone MUST BUY NOW!!!,3,0,True,2024-06-21 16:00:00,1720994606,0
+A0000734,B08N5WRWNW,John Smith,3,5,PERFECT PRODUCT 5⭐⭐⭐⭐⭐ MUST BUY!!!,"Not bad, meets basic expectations",1,0,True,2024-06-21 17:00:00,1721273257,0
+A0000565,B07H48467S,David Wilson,5,3,Decent purchase,"Good product for the price, works as expected",6,2,True,2024-06-21 18:00:00,1721843933,0
+A0000569,B09B2MFP3R,Sarah Johnson,4,4,Average quality works okay,Average quality but acceptable for budget,2,0,True,2024-06-21 19:00:00,1721310367,0
