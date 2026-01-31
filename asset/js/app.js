@@ -4,7 +4,8 @@
 
 document.addEventListener("DOMContentLoaded", () => {
 
-    const API_BASE = "http://localhost:5001";
+    const API_BASE = "https://fake-review-detection-2.onrender.com";
+
 
     /* ----------------------------------------------------------
        1. LOAD REAL METRICS FROM BACKEND
